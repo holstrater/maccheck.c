@@ -1,3 +1,11 @@
+/*
+NOTE: Note: I won’t (and you shouldn’t) use this program as an actual Trojan or as malware in general
+such as using this program to gain access to a machine whos owner hasn’t explicitly given permission to do so.
+I’ve written this program and this post to learn more and to talk about what that learning has been like for me, nothing else. 
+You shouldn’t let anyone run this program if that person doesn’t fully understand what it does 
+and hasn’t given explicit permission for access through a reverse shell.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
